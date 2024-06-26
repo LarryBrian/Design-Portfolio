@@ -1,7 +1,7 @@
 # Design-Portfolio
 This is a compilation of UI designs I have created for my side iOS projects. All of these have been published to the Apple App Store or are soon to be published as of Summer 2024
 
-#**Enzo**  
+#**Enzo**#  
 **Description:** This app is to help the pancreatic insufficiency community manage their medication dosing  
 **Tech:** Written in SwiftUI and utilizing Firebase for the backend. Designed in Figma.   
 **Published:** Currnetly in Beta Testing phase, expected to launch Fall 2024  
