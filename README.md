@@ -2,9 +2,9 @@
 This is a compilation of UI designs I have created for my side iOS projects. All of these have been published to the Apple App Store or are soon to be published as of Summer 2024
 
 **Enzo**
-**Description:** This app is to help the pancreatic insufficiency community manage their medication dosing
-**Tech:** Written in SwiftUI and utilizing Firebase for the backend. Designed in Figma. 
-**Published:** Currnetly in Beta Testing phase, expected to launch Fall 2024
+**Description:** This app is to help the pancreatic insufficiency community manage their medication dosing  
+**Tech:** Written in SwiftUI and utilizing Firebase for the backend. Designed in Figma.   
+**Published:** Currnetly in Beta Testing phase, expected to launch Fall 2024  
 <img width="710" alt="EnzoDesignMocks" src="https://github.com/LarryBrian/Design-Portfolio/assets/8285572/601cc154-7240-47b3-b2f1-0f81cbe1fba0">
 
 **FitTrack - Premium Fitness**
